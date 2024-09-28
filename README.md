@@ -1,1 +1,1 @@
-# Capx
+pip install yfinance, nltk, praw
